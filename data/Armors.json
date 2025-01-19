@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":325,"name":"Ring","note":"","params":[0,10,0,0,0,0,0,0],"price":300},
+{"id":2,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":326,"name":"Hat","note":"","params":[0,0,0,0,0,10,0,0],"price":600},
+{"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":322,"name":"Chestplate","note":"","params":[10,0,0,0,0,0,0,0],"price":1500},
+{"id":4,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":324,"name":"Shield","note":"","params":[0,0,0,10,0,0,0,0],"price":1200},
+{"id":5,"atypeId":1,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":388,"name":"Cyclone Shield","note":"","params":[0,0,0,20,0,10,0,0],"price":1800},
+{"id":6,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":389,"name":"Discipline Hat","note":"","params":[0,0,0,5,0,30,0,0],"price":1200},
+{"id":7,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":390,"name":"Fortunes Chestplate","note":"","params":[20,0,0,5,0,5,0,5],"price":3000},
+{"id":8,"atypeId":1,"description":"","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":1,"value":0.05}],"iconIndex":391,"name":"Glamour Necklace","note":"","params":[0,20,0,0,10,0,0,10],"price":1600}
+]

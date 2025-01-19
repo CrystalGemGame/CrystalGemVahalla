@@ -1,0 +1,40 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-3,10,10,offbot,center,crystalgem>
+CREDITS
+
+\c[11]Engine
+Degica
+RPG Maker MV
+
+\c[26]Programmer
+KageDesu
+Yanfly
+Galv
+FeniXEngine
+BallgameStudios
+Squirting Elephant
+
+\c[30]Artwork
+Degica
+RPG Maker MV
+hiddenone
+Avery
+KADOKAWA
+RavenBlackbird
+whtdragon
+Haydeos
+
+\c[26]Audio
+Degica
+RPG Maker MV
+Yufuruka
+
+\c[24]Thanks
+All my supporters
+</block>
+
+<block:999,0,10,10,300,center,crystalgem>
+\c[27]Hết
+</block>

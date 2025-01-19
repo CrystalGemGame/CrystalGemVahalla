@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":320,"name":"Sword","note":"<ABS:0>\n<noTarget:1>\n<xAnimaSet:Sword>\n<swing:1>","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":4},
+{"id":3,"animationId":3,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0}],"iconIndex":321,"name":"Cane","note":"<ABS:1>\n<reloadParam:attackSpeed>\n<img:bullet_lemon>\n<xAnimaSet:Staff>\n<range:6>","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":5,"animationId":111,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":104,"name":"Gun","note":"<ABS:1>\n<reloadParam:attackSpeed>\n<img:bullet_purple>\n<firearm:1>\n<range:12>\n<ammo:6>\n<stack:10>\n<stackTime:60>\n<vSpeed:10>\n<reloadSound:equip1>","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":9},
+{"id":6,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":107,"name":"Spear","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":12},
+{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":113,"name":"Iron Pipe","note":"","params":[0,0,1,0,0,0,0,0],"price":0,"wtypeId":13},
+{"id":8,"animationId":9,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":383,"name":"Bow","note":"<ABS:1>\n<reloadParam:attackSpeed>\n<img:IceArrow>\n<firearm:1>\n<range:12>\n<ammo:14>\n<vSpeed:10>\n<stack:3>\n<stackTime:30>\n<reloadSound:equip1>\n<xAnimaSet:Bow>","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":9,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":385,"name":"Interrogator Sword","note":"<ABS:0>\n<noTarget:1>\n<xAnimaSet:Sword>\n<swing:1>","params":[0,0,20,0,5,0,5,0],"price":3000,"wtypeId":2},
+{"id":10,"animationId":3,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0}],"iconIndex":386,"name":"Netherbane Cane","note":"<ABS:1>\n<reloadParam:attackSpeed>\n<img:bullet_lemon>\n<xAnimaSet:Staff>\n<range:6>","params":[0,10,15,0,20,0,0,0],"price":3000,"wtypeId":6},
+{"id":11,"animationId":7,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":387,"name":"Irk Bow","note":"<ABS:1>\n<reloadParam:attackSpeed>\n<img:IceArrow>\n<firearm:1>\n<range:12>\n<ammo:14>\n<vSpeed:10>\n<stack:3>\n<stackTime:30>\n<reloadSound:equip1>\n<xAnimaSet:Bow>","params":[0,0,25,0,0,0,10,5],"price":3000,"wtypeId":7}
+]

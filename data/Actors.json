@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Nicolas","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"Nicolas","traits":[],"initialLevel":1,"maxLevel":20,"name":"Nicolas","nickname":"","note":"<xAnima:Nicolas>\n<sBattleMode:1>\n<agressive:0>","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Hisabi","classId":2,"equips":[3,0,0,3,0],"faceIndex":0,"faceName":"Hisabi","traits":[],"initialLevel":1,"maxLevel":20,"name":"Hisabi","nickname":"","note":"<xAnima:Hisabi>\n<sBattleMode:1>\n<agressive:0>","profile":""},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"Kora","classId":1,"equips":[1,4,2,3,1],"faceIndex":3,"faceName":"Kora","traits":[],"initialLevel":1,"maxLevel":10,"name":"Kora","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":3,"characterName":"Valha","classId":2,"equips":[3,4,2,3,1],"faceIndex":3,"faceName":"Valha","traits":[],"initialLevel":1,"maxLevel":10,"name":"Valha","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":3,"characterName":"Waldron","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Waldron","traits":[],"initialLevel":1,"maxLevel":10,"name":"Waldron","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Rikayo","classId":3,"equips":[5,4,2,3,1],"faceIndex":0,"faceName":"Rikayo","traits":[],"initialLevel":1,"maxLevel":20,"name":"Rikayo","nickname":"","note":"<sBattleMode:1>\n<agressive:0>","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"Kanzaro","classId":4,"equips":[6,4,2,3,1],"faceIndex":0,"faceName":"Kanzaro","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kanzaro","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":1,"characterName":"EvilWarrior","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"EvilWarrior","traits":[],"initialLevel":1,"maxLevel":99,"name":"Araton","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"EvilWarrior","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"EvilWarrior","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bazazath","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":2,"characterName":"EvilWarrior","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"EvilWarrior","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jael","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":3,"characterName":"EvilWarrior","classId":1,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"EvilWarrior","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kezef","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":4,"characterName":"EvilWarrior","classId":2,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"EvilWarrior","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sraosha","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"Isle","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Isle","traits":[],"initialLevel":1,"maxLevel":1,"name":"Isle","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":3,"characterName":"Theri","classId":5,"equips":[8,0,0,0,0],"faceIndex":3,"faceName":"Theri","traits":[],"initialLevel":1,"maxLevel":20,"name":"Theri","nickname":"","note":"<xAnima:Theri>\n<sBattleMode:1>\n<agressive:0>","profile":""}
+]
